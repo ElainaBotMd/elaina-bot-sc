@@ -1,7 +1,7 @@
 {
   "users": {
     "6289528157437@s.whatsapp.net": {
-      "exp": 1000001549,
+      "exp": 1000001585,
       "limit": 100000000000,
       "lastclaim": 0,
       "registered": false,
@@ -177,7 +177,7 @@
       "job": "Pengangguran",
       "lbars": "[▒▒▒▒▒▒▒▒▒]",
       "premium": false,
-      "premiumTime": 1678271853180,
+      "premiumTime": 0,
       "healt": 100,
       "title": 0,
       "bannedDate": 0,
@@ -225,7 +225,7 @@
       "catexp": 0
     },
     "6285859564971@s.whatsapp.net": {
-      "exp": 2413,
+      "exp": 2574,
       "limit": 1000,
       "lastclaim": 1676198754598,
       "registered": true,
@@ -152096,10 +152096,10 @@
   },
   "stats": {
     "menu-awal.js": {
-      "total": 232,
-      "success": 231,
-      "last": 1677113054097,
-      "lastSuccess": 1677113054097
+      "total": 235,
+      "success": 234,
+      "last": 1678687028650,
+      "lastSuccess": 1678687028650
     },
     "sticker-colong.js": {
       "total": 174,
@@ -152126,10 +152126,10 @@
       "lastSuccess": 1676702469324
     },
     "main-menu.js": {
-      "total": 224,
-      "success": 224,
-      "last": 1677087535311,
-      "lastSuccess": 1677087535311
+      "total": 227,
+      "success": 227,
+      "last": 1678687059023,
+      "lastSuccess": 1678687059023
     },
     "info-botinfo.js": {
       "total": 5,
@@ -152144,10 +152144,10 @@
       "lastSuccess": 1677076792382
     },
     "sewabot.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1677064402682,
-      "lastSuccess": 1677064402682
+      "total": 27,
+      "success": 27,
+      "last": 1678686959579,
+      "lastSuccess": 1678686959579
     },
     "owner-order.js": {
       "total": 11,
@@ -153302,10 +153302,10 @@
       "lastSuccess": 1676785686982
     },
     "info-speedtest.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1676806412898,
-      "lastSuccess": 1676806412898
+      "total": 3,
+      "success": 3,
+      "last": 1678687043441,
+      "lastSuccess": 1678687043441
     },
     "owner-leavegc.js": {
       "total": 4,
